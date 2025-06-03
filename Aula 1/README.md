@@ -31,6 +31,6 @@ Aqui está um resumo rápido do que você aprenderá nas próximas aulas:
 
 Ao concluir esse curso, você terá não só confiança para iniciar seus projetos com CrewAI, mas também será um recurso valioso para qualquer equipe de desenvolvimento que utilize Inteligência Artificial.
 
-O desafio está lançado: juntos vamos vencer os obstáculos técnicos iniciais e construir uma base sólida para o seu sucesso com CrewAI. Não esqueça que todas as aulas (teóricas e práticas) estão organizadas no repositório oficial da DIO no GitHub. Aproveite para deixar uma estrelinha e acompanhar nossas atualizações por lá. Caso tenha alguma dúvida ou encontre problemas, abra uma issue no próprio repositório—eu ou alguém da comunidade ficará feliz em ajudar!
+O desafio está lançado: juntos vamos vencer os obstáculos técnicos iniciais e construir uma base sólida para o seu sucesso com CrewAI. Não esqueça que todas as aulas (teóricas e práticas) estão organizadas no repositório oficial da DIO no GitHub. Aproveite para deixar uma estrelinha e acompanhar nossas atualizações por lá. Caso tenha alguma dúvida ou encontre problemas, abra uma issue no próprio repositório, eu ou alguém da nossa comunidade ficará feliz em ajudar!
 
 Booooooora!
