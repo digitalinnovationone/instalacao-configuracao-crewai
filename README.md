@@ -27,3 +27,9 @@ Conquistas:
 - Aprimore suas habilidades em CrewAI através da Instalação e Confguração.
 - Conquiste a Badge Instalação e Confguração do CrewAI
 - Receba o Certifcado de Conclusão para Instalação e Confguração do CrewAI
+
+## Prática Guiada no Google Colab
+
+Durante o curso, todas as práticas foram organizadas em um notebook interativo no Google Colab. Você pode executar os códigos diretamente do seu navegador, sem precisar instalar nada:
+
+[![Abrir no Google Colab](https://colab.research.google.com/drive/13HpWT0O70WIIirV3nrO39ZFapzi111Fw?usp=sharing)
